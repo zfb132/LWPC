@@ -1,0 +1,15 @@
+file-mds    ../Output/
+file-lwf    ../Output/
+file-grd    ../Output/
+case-id     OMEGA coverage of the Mediterranean
+  Name the files
+tx          55625847
+  Identify the transmitter
+tx-data  55625847 19.8 -21.80 -114.15 1000 43.6 0 0
+  Choose the LWPM model daytime environment
+ionosphere  lwpm june/01/2009 00:00
+op-area     world  -90.  180.  90.  180.
+a-noise     ntia june 01 0000 
+start
+quit
+
