@@ -10,6 +10,9 @@ Here we present a Python interface to the original Fortran code.
 
 Minimum edits to source to compile on modern (non-Watcom) Fortran compilers such as Gfortan.
 
+## Update by zfb
+Build windows executable program on linux: [cross platform compile](https://blog.whuzfb.cn/blog/2020/11/11/ubuntu_cross_platform_compile_lwpc/)  
+
 ## Build
 
 ```sh
